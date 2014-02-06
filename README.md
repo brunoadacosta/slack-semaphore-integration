@@ -22,7 +22,7 @@ Go to semaphore / project / settings / notifications / webhooks
 
 Add this url and change params
 
-`http://slack-semaphore-integration.herokuapp.com?token=`yourtoken`&channel=`yourchannel`&subdomain=`yourdomain
+`http://slack-semaphore-integration.herokuapp.com?token=yourtoken&channel=yourchannel&subdomain=yourdomain`
 
 ###Done, your integration should work
 
