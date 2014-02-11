@@ -6,6 +6,7 @@ require 'httparty'
 class SlackSemaphoreIntegration < Sinatra::Application
   post "/" do
     payload = JSON.parse(request.body.read)
+    p payload
     token = params[:token]
     channel = params[:channel]
     subdomain = params[:subdomain]
