@@ -1,5 +1,8 @@
 #slack-semaphore-integration
 
+### [Official
+Integration](https://twitter.com/SlackHQ/status/441314352402944000/photo/1)
+
 ###[Semaphore](http://semaphoreapp.com)
 Semaphore is a fully managed, high performance testing and deployment solution for your company.
 
